@@ -1,5 +1,5 @@
 # Nonparametric Statistics - Project 1
-> Assignment from Spring 2021 Nonparametric Statistics course. Assignment description is below.
+> Assignment from Spring 2021 Nonparametric Statistics course. 
 
 
 [Source](https://onlinelibrary.wiley.com/doi/book/10.1002/9781119196037): "Leukemia is a disease characterized by proliferation of the white blood cells or leukocytes. One form of chemotherapy used in the treatment of leukemia involves the administration of corticosteroids. Some researchers suggested that forms of leukemia characterized by leukocytes with a large number of glucocorticoid receptor (GR) sites per cell are more effectively controlled by corticosteroids." 
@@ -21,4 +21,3 @@
 **Research Question 3:** If there exists a significant difference in the number of GR sites per leukocyte cell for the five subject populations, can we draw conclusions about specific pairs of treatment effects?
 
 **Research Question 4:** Do patients with hairy-cell leukemia, or patients with chronic lymphatic leukemia, or patients with chronic myelocytic leukemia, or patients with acute leukemia, have a larger number of GR sites per leukocyte cell than normal subjects?
-

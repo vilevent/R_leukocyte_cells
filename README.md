@@ -21,3 +21,8 @@
 **Research Question 3:** If there exists a significant difference in the number of GR sites per leukocyte cell for the five subject populations, can we draw conclusions about specific pairs of treatment effects?
 
 **Research Question 4:** Do patients with hairy-cell leukemia, or patients with chronic lymphatic leukemia, or patients with chronic myelocytic leukemia, or patients with acute leukemia, have a larger number of GR sites per leukocyte cell than normal subjects?
+
+#
+
+### Highlights:
+Gained experience working with healthcare domain problems
